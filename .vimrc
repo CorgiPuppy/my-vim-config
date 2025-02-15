@@ -15,6 +15,9 @@ set noswapfile
 
 set nobackup
 
+" Enable work with clipboard in editor
+set clipboard=unnamedplus
+
 set history=1000
 
 " Enable auto completion menu after pressing TAB
