@@ -15,7 +15,7 @@ set noswapfile
 
 set nobackup
 
-" Enable work with clipboard in editor
+" Enable work with clipboard in editor.
 set clipboard=unnamedplus
 
 set history=1000
